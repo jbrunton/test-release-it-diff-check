@@ -1,0 +1,9 @@
+{
+  "github": {
+    "release": true
+  },
+  "npm": false,
+  "hooks": {
+    "before:init": ["touch index.js"]
+  }
+}
